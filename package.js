@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'chatra:redpubsub',
+  name: 'hypno2000:redpubsub',
   version: '0.8.7',
   // Brief, one-line summary of the package.
   summary: 'Custom pub/sub interface for Meteor on top of Redis',
